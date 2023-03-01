@@ -153,10 +153,10 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/erfc`][@stdlib/math/base/special/erfc]</span><span class="delimiter">: </span><span class="description">complementary error function.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/erf`][@stdlib/math/iter/special/erf]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the error function for each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/erfinv`][@stdlib/math/iter/special/erfinv]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the inverse error function for each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/erfcinv`][@stdlib/math/iter/special/erfcinv]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the inverse complementary error function for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/erfc`][@stdlib/math/base/special/erfc]</span><span class="delimiter">: </span><span class="description">complementary error function.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/erf`][@stdlib/math/iter/special/erf]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the error function for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/erfinv`][@stdlib/math/iter/special/erfinv]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the inverse error function for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/erfcinv`][@stdlib/math/iter/special/erfcinv]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the inverse complementary error function for each iterated value.</span>
 
 </section>
 
